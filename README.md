@@ -3,7 +3,7 @@
 Welcome to my Github page.
 
 I'm currently learning about data engineering and related technologies:
-- :card-file-box: relational data modelling
+- :card_file_box: relational data modelling
 - 📃 non-relational data modelling
 - :snowflake: data warehouses 🚣‍♂️ data lakes
 - 🌟 big data processing with spark
